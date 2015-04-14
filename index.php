@@ -3,9 +3,11 @@
 		<!-- Banner -->
 			<section id="banner">
 				<div class="row no-collapse 50% uniform">
+					<div class="12u">
+						<h2>¡Bienvenido!</h2>
+					</div>
 					<div class="4u"></div>
 					<div class="4u">
-						<h2>¡Bienvenido!</h2>
 						<span class="image fit">
 							<img src="images/acm.png">
 						</span>
@@ -58,9 +60,9 @@
 						<section class="box special">
 							<span class="image featured image-main"><img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10995920_10152716528247703_4766521307331989259_n.jpg?oh=029cd405671a9bc4a32e627bce031503&oe=559B8C3E&__gda__=1440549441_e61f72dc1223aa14e08ff69bba48f2ac" alt="" /></span>
 							<h3>Nuestra Junta Directiva</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<p>#FotoCasual #MaricaSeTomóMiGuaro</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Learn More</a></li>
+								<li><a href="#" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
@@ -80,7 +82,7 @@
 							<h3>Actividades</h3>
 							<p></p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Learn More</a></li>
+								<li><a href="#" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
@@ -90,7 +92,7 @@
 							<h3>Proyectos</h3>
 							<p></p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Learn More</a></li>
+								<li><a href="#" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
