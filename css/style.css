@@ -1426,3 +1426,10 @@
 		#cta .formerize-placeholder {
 			color: rgba(255, 255, 255, 0.75) !important;
 		}
+
+	/** Custom Styles **/
+
+	.image-main {
+    	overflow: hidden;
+    	height: 16em;
+	}

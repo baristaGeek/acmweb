@@ -10,7 +10,7 @@
 							<img src="images/acm.png">
 						</span>
 					</div>
-					<div class="4u"></div>
+					
 				</div>
 			</section>
 
