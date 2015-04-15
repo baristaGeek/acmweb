@@ -25,7 +25,7 @@
 						<p>Somos un grupo de estudiantes motivados y apasionados por la computación,
 						 por experimentar, aprender y construir cosas nuevas para aportarle a nuestra comunidad.</p>
 					</header>
-					<span class="image featured"><img src="images/ml_uniandes.jpg" alt="" /></span>
+					<span class="image featured"><img src="images/ml_uniandes.JPG" alt="" /></span>
 				</section>
 
 				<section class="box special features">
