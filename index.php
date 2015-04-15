@@ -33,24 +33,24 @@
 						<section>
 							<span class="icon major fa-bolt accent2"></span>
 							<h3>¿Por qué lo hacemos?</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<p>Apple pie cupcake tootsie roll biscuit jujubes dessert. Bonbon cookie oat cake biscuit macaroon chocolate bar croissant. Tart pudding liquorice ice cream cookie pastry. Cake I love macaroon pie.</p>
 						</section>
 						<section>
 							<span class="icon major fa-bed accent3"></span>
 							<h3>¿Qué hacemos?</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<p>Lemon drops halvah pudding croissant I love chupa chups dessert. Tootsie roll topping sugar plum lemon drops sweet chocolate pudding croissant dragée. Pie fruitcake toffee muffin marshmallow chocolate pastry bonbon.</p>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
 							<span class="icon major fa-bug accent4"></span>
 							<h3>¿Cómo lo hacemos?</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<p>I love candy canes chupa chups marzipan. Lemon drops brownie macaroon muffin. Gummies pie caramels. Cake halvah I love.</p>
 						</section>
 						<section>
 							<span class="icon major fa-question accent5"></span>
 							<h3>¿Qué es ACM?</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<p>Ice cream dessert cupcake gummies sesame snaps. Soufflé cake brownie cake danish dragée jelly beans gingerbread. Liquorice cake dragée donut donut. Jujubes tart oat cake.</p>
 						</section>
 					</div>
 				</section>
