@@ -987,8 +987,8 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: #444;
-		color: #bbb;
+		background: #D9E021;
+		color: #fff;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -997,6 +997,7 @@
 		top: 0;
 		width: 100%;
 		z-index: 10000;
+		box-shadow: 0px 8px 0px #ADB30E;
 	}
 
 		#header h1 {
