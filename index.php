@@ -62,7 +62,7 @@
 							<h3>Nuestra Junta Directiva</h3>
 							<p>#FotoCasual #MaricaSeTomóMiGuaro</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Ver Más</a></li>
+								<li><a href="generic.html" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
