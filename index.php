@@ -62,7 +62,7 @@
 							<h3>Nuestra Junta Directiva</h3>
 							<p>#FotoCasual #MaricaSeTomóMiGuaro</p>
 							<ul class="actions">
-								<li><a href="generic.html" class="button alt">Ver Más</a></li>
+								<li><a href="junta.html" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
@@ -72,7 +72,7 @@
 							<h3>Nuestro Equipo</h3>
 							<p>Somos un equipo interdisciplinario de estudiantes que buscan aprender y beneficiar a la comunidad por medio de proyectos, actividades y talleres.</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Ver Más</a></li>
+								<li><a href="equipo.html" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
@@ -82,7 +82,7 @@
 							<h3>Actividades</h3>
 							<p></p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Ver Más</a></li>
+								<li><a href="actividades.html" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
@@ -92,7 +92,7 @@
 							<h3>Proyectos</h3>
 							<p></p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Ver Más</a></li>
+								<li><a href="proyectos.html" class="button alt">Ver Más</a></li>
 							</ul>
 						</section>
 					</div>
@@ -103,7 +103,7 @@
 		<!-- CTA -->
 			<section id="cta">
 
-				<h2>Haz parte de nuestro capítulo</h2>
+				<h2>Haz parte de nuestro capítulo :)</h2>
 
 				<form>
 					<div class="row uniform 50%">
