@@ -1,4 +1,7 @@
-<?php include 'include/header.php'; ?>
+<?php 
+	$index = 1;
+	include 'include/header.php'; 
+?>
 <!--?php include 'include/navbar.php'; ?-->
 
 		<!-- Banner -->
@@ -32,24 +35,24 @@
 				<section class="box special features">
 					<div class="features-row">
 						<section>
-							<span class="icon major fa-bolt accent2"></span>
+							<span class="icon major fa-bolt icon1"></span>
 							<h3>¿Por qué lo hacemos?</h3>
 							<p>Apple pie cupcake tootsie roll biscuit jujubes dessert. Bonbon cookie oat cake biscuit macaroon chocolate bar croissant. Tart pudding liquorice ice cream cookie pastry. Cake I love macaroon pie.</p>
 						</section>
 						<section>
-							<span class="icon major fa-bed accent3"></span>
+							<span class="icon major fa-lightbulb-o icon2"></span>
 							<h3>¿Qué hacemos?</h3>
 							<p>Lemon drops halvah pudding croissant I love chupa chups dessert. Tootsie roll topping sugar plum lemon drops sweet chocolate pudding croissant dragée. Pie fruitcake toffee muffin marshmallow chocolate pastry bonbon.</p>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
-							<span class="icon major fa-bug accent4"></span>
+							<span class="icon major fa-simplybuilt icon3"></span>
 							<h3>¿Cómo lo hacemos?</h3>
 							<p>I love candy canes chupa chups marzipan. Lemon drops brownie macaroon muffin. Gummies pie caramels. Cake halvah I love.</p>
 						</section>
 						<section>
-							<span class="icon major fa-question accent5"></span>
+							<span class="icon major fa-question icon4"></span>
 							<h3>¿Qué es ACM?</h3>
 							<p>Ice cream dessert cupcake gummies sesame snaps. Soufflé cake brownie cake danish dragée jelly beans gingerbread. Liquorice cake dragée donut donut. Jujubes tart oat cake.</p>
 						</section>
@@ -104,7 +107,7 @@
 		<!-- CTA -->
 			<section id="cta">
 
-				<h2>Haz parte de nuestro capítulo :)</h2>
+				<h2>¡Haz parte de nuestro capítulo!</h2>
 
 				<form>
 					<div class="row uniform 50%">

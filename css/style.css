@@ -1434,3 +1434,19 @@
     	overflow: hidden;
     	max-height: 16em;
 	}
+
+	.icon.major.icon1{
+		background: #004358;
+	}
+
+	.icon.major.icon2{
+		background: #d9e021;
+	}
+
+	.icon.major.icon3{
+		background: #fd7400;
+	}
+
+	.icon.major.icon4{
+		background: #f34a64;
+	}

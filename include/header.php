@@ -25,8 +25,17 @@
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
-	<body class="landing">
+	<?php 
+	if (isset($index)) 
+	{
+		echo '<body class="landing">';
+	}
+	else
+	{
+		echo '<body>';
+	}
 
+	 ?>
 		<!-- Header -->
 			<!--
 			<header id="header" class="alt">
