@@ -526,6 +526,11 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		opacity: 0;
+		transition: all 400ms ease-in;
+	}
+	.icon-animate{
+		opacity: 1;
 	}
 
 		.icon:before {
