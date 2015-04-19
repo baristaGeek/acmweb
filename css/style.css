@@ -532,6 +532,8 @@
 	.icon-animate{
 		opacity: 1;
 		animation: icon-rotation 750ms linear;
+		-webkit-animation: icon-rotation 750ms linear;
+    		-moz-animation: icon-rotation 750ms linear;
 	}
 	@-webkit-keyframes icon-rotation{
 	0% {
