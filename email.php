@@ -28,7 +28,7 @@
             echo "Gracias. Te hemos enviado un correo a ". $to;
         }
         else{
-            echo "Lo sentimos. Hubo un error";
+            echo "Lo sentimos. Te hemos fallado";
         }
     }*/
     //heroku
