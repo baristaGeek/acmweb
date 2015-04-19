@@ -1,5 +1,5 @@
 <?php
-    $email = $_POST['email'];
+    $email= $_POST['email'];
     $to = $email;
     $subject= "ACM Uniandes";
     $message= "
@@ -23,5 +23,10 @@
 
     $headers .= 'From: amigo008@hotmail.com' . "\r\n";
     if($_POST){
-        mail($to, $subject, $message, $headers);
+        if(mail($to, $subject, $message, $headers)){
+            echo "Gracias. Te hemos enviado un correo a ". $to;
+        }
+        else{
+            echo "Lo sentimos. Hubo un error";
+        }
     }

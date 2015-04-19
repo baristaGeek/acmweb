@@ -109,17 +109,18 @@
 
 				<h2>¡Haz parte de nuestro capítulo!</h2>
 
-				<form method="post" action="email.php">
+				<form>
 					<div class="row uniform 50%">
 						<div class="8u 12u(mobilep)">
 							<input type="email" name="email" id="email" placeholder="Email Address" />
 						</div>
 						<div class="4u 12u(mobilep)">
-							<input type="submit" value="Enviar" class="fit" />
+							<input type="button" value="Enviar" class="fit" id="but-form-mail"/>
 						</div>
 					</div>
 				</form>
-
+                <p id="p-email" style="display:none"></p>
+                <script src="js/gen-scripts.js"></script>
 			</section>
 
 <?php include 'include/footer.php'; ?>
