@@ -59,7 +59,6 @@
     $query= "INSERT INTO interesados(email,fecha) VALUES('$to','$fecha')";
     try {
         $msg = $db->exec($query);
-        echo "se creó $msg filas";
     }
     catch(PDOException $e){
         echo $e->getMessage();
