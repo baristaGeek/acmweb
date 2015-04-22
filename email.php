@@ -50,9 +50,11 @@
             echo $er;
         }
     }
-    $dsn = "pgsql:host=ec2-50-17-192-136.compute-1.amazonaws.com;dbname=d56rl2qqrvpeju;user=qedvpacmhoghdk;port=5432;sslmode=require;password=1Hdk6-T3nrhGf4rndESs1lQEAy";
+    $dsn = "pgsql:dbname=d56rl2qqrvpeju;host=ec2-50-17-192-136.compute-1.amazonaws.com";
+    $user= "qedvpacmhoghdk";
+    $pd= "1Hdk6-T3nrhGf4rndESs1lQEAy";
     echo $dsn;
-    $db= new PDO($dsn);
+    $db= new PDO($dsn,$user,$pd);
     echo $db;
     $fecha= date("Y-d-m");
     echo $fecha;
