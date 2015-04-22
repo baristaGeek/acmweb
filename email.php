@@ -54,8 +54,14 @@
     $user= "qedvpacmhoghdk";
     $pd= "1Hdk6-T3nrhGf4rndESs1lQEAy";
     $db= new PDO($dsn,$user,$pd);
+    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     $fecha= date("Y-d-m");
     $query= "INSERT INTO interesados(email,fecha) VALUES('$to','$fecha')";
-    $msg= $db->exec($query);
-    echo "se creó bien el registro";
+    try {
+        $msg = $db->exec($query);
+        echo "se creó bien el registro";
+    }
+    catch(PDOException $e){
+        echo $e.getMessage();
+    }
 
