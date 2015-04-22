@@ -62,6 +62,6 @@
         echo "se creó $msg filas";
     }
     catch(PDOException $e){
-        echo $e.getMessage();
+        echo $e->getMessage();
     }
 
