@@ -55,9 +55,7 @@
     $pd= "1Hdk6-T3nrhGf4rndESs1lQEAy";
     $db= new PDO($dsn,$user,$pd);
     $fecha= date("Y-d-m");
-    echo $fecha;
     $query= "INSERT INTO interesados(email,fecha) VALUES('$to','$fecha')";
-    echo $query;
-    $msg= $db->query($query) or die($db->errorCode() . $db->errorInfo());
-    echo $msg;
+    $msg= $db->exec($query);
+    echo "se creó bien el registro";
 
