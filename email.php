@@ -50,6 +50,14 @@
             echo $er;
         }
     }
-    echo pg_connect("dbname=d56rl2qqrvpeju,user=qedvpacmhoghdk,password=1Hdk6-T3nrhGf4rndESs1IQEAy");
-
+    $dsn = "pgsql: host=ec2-50-17-192-136.compute-1.amazonaws.com;dbname=d56rl2qqrvpeju;user=qevdpacmhoghdk;port=5432;sslmode=require;password=1Hdk6-T3nrhGf4rndESs1IQEAy";
+    $db= new PDO($dsn);
+    $fecha= date("Y-d-m");
+    $query= "INSERT INTO interesados(email,fecha) VALUES($to,$fecha)";
+    if($db->query($query)){
+        echo "Se guardó en la base de datos";
+    }
+    else{
+        echo "No se pudo guardar en la base de datos";
+    }
 
