@@ -54,10 +54,5 @@
     $db= new PDO($dsn);
     $fecha= date("Y-d-m");
     $query= "INSERT INTO interesados(email,fecha) VALUES($to,$fecha)";
-    if($db->query($query)){
-        echo "Se guardó en la base de datos";
-    }
-    else{
-        echo "No se pudo guardar en la base de datos";
-    }
+    $db->query($query) or die($db->errorCode() . $db->errorInfo());
 
