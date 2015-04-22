@@ -50,10 +50,14 @@
             echo $er;
         }
     }
-    $dsn = "pgsql:host=ec2-50-17-192-136.compute-1.amazonaws.com;dbname=d56rl2qqrvpeju;user=qevdpacmhoghdk;port=5432;sslmode=require;password=1Hdk6-T3nrhGf4rndESs1IQEAy";
+    $dsn = "pgsql:host=ec2-50-17-192-136.compute-1.amazonaws.com;dbname=d56rl2qqrvpeju;user=qedvpacmhoghdk;port=5432;sslmode=require;password=1Hdk6-T3nrhGf4rndESs1IQEAy";
+    echo $dsn;
     $db= new PDO($dsn);
+    echo $db;
     $fecha= date("Y-d-m");
+    echo $fecha;
     $query= "INSERT INTO interesados(email,fecha) VALUES('$to','$fecha')";
+    echo $query;
     $msg= $db->query($query) or die($db->errorCode() . $db->errorInfo());
     echo $msg;
 
