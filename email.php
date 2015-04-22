@@ -41,13 +41,15 @@
         setSubject($subject)->
         setText('Gracias por interesarte en nuestro capítulo. Próximamente te estaremos contactando para que puedas enterarte mejor de nuestras actividades.<')->
         setHtml($message);
-try {
-    $sendgrid->send($mail);
-    echo "Gracias. Te hemos enviado un correo a ". $to;
-} catch(\SendGrid\Exception $e) {
-    echo $e->getCode();
-    foreach($e->getErrors() as $er) {
-        echo $er;
+    try {
+        $sendgrid->send($mail);
+        echo "Gracias. Te hemos enviado un correo a ". $to;
+    } catch(\SendGrid\Exception $e) {
+        echo $e->getCode();
+        foreach($e->getErrors() as $er) {
+            echo $er;
+        }
     }
-}
+    echo pg_connect("");
+
 
