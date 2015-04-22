@@ -50,6 +50,6 @@
             echo $er;
         }
     }
-    echo pg_connect("");
+    echo pg_connect("dbname=d56rl2qqrvpeju,user=qedvpacmhoghdk,password=1Hdk6-T3nrhGf4rndESs1IQEAy");
 
 
