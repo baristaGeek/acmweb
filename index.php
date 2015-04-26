@@ -112,7 +112,7 @@
 				<form>
 					<div class="row uniform 50%">
 						<div class="8u 12u(mobilep)">
-							<input type="email" name="email" id="email" placeholder="Email Address" />
+							<input type="email" name="email" id="email" placeholder="Email Address" required />
 						</div>
 						<div class="4u 12u(mobilep)">
 							<input type="button" value="Enviar" class="fit" id="but-form-mail"/>
