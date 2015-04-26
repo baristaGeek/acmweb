@@ -1,4 +1,4 @@
-$('#email-form').submit(function(ev){
+$('#email_form').submit(function(ev){
     $.ajax({
         type: $(this).attr('method'),
         url: $(this).attr('action'),
