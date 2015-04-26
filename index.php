@@ -109,7 +109,7 @@
 
 				<h2>¡Haz parte de nuestro capítulo!</h2>
 
-				<form id='email_form'>
+				<form id='email_form' action="email.php" method="post">
 					<div class="row uniform 50%">
 						<div class="8u 12u(mobilep)">
 							<input type="email" name="email" id="email" placeholder="Email Address" required />
