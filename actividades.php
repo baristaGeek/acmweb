@@ -10,15 +10,15 @@
 			<div class="box">
 				<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 				<h3>Así esparcimos el interés por la computación</h3>
-				<p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>
+				<p>En ACM Uniandes creamos espacios para que la comunidad se integre en torno a las ciencias de la computación. Esto incluye ambientes de aprendizaje, conferencias, celebraciones, maratones y exposiciones entre muchas otras cosas. Nuestra misión es que la computación tenga una posición más relevante en la Universidad de los Andes y es con estos espacios como obtenemso visibilidad. Estos son algunos ejemplos de lo que hacemos actualmente. </p>
 				<div class="row">
 					<div class="6u 12u(mobilep)">
-						<h3>Nec sed vel vestibulum</h3>
-						<p>Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.</p>
+						<h3>Bootcamps</h3>
+						<p>Son espacios educativos dirigidos a gente interesada en programar, sin importar el nivel. Esa persona como tú puede ser aquella que estudia Ingeniería de Sistemas y quiere complementar lo aprendido en clase, o aquella persona de otra carrera que quiere tener una introducción al tema. Los bootcamps no son una clase, son unos workshops competitivos donde conocerás gente con intereses similare para así eventualmente emprender. </p>
 					</div>
 					<div class="6u 12u(mobilep)">
-						<h3>Col blandit adipiscing</h3>
-						<p>Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.</p>
+						<h3>Celebración Día Pi</h3>
+						<p>El día 3/14 de cada año le hacemos honor a una de las cifras más importantes de las matemáticas. La última vez tuvimos competencias de problemas matemáticos y de recitación de digitos del número, un coloquio y también comimos pie (pun intended!).</p>
 					</div>
 				</div>
 			</div>
