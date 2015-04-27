@@ -37,24 +37,24 @@
 						<section>
 							<span class="icon major fa-bolt icon1"></span>
 							<h3>¿Por qué lo hacemos?</h3>
-							<p>Apple pie cupcake tootsie roll biscuit jujubes dessert. Bonbon cookie oat cake biscuit macaroon chocolate bar croissant. Tart pudding liquorice ice cream cookie pastry. Cake I love macaroon pie.</p>
+							<p>Porque nos gusta ayudar a la comunidad por medio de lo que más nos gusta hacer, software. Porque creemos que ser inventores es la mejor profesión del mundo. </p>
 						</section>
 						<section>
 							<span class="icon major fa-lightbulb-o icon2"></span>
 							<h3>¿Qué hacemos?</h3>
-							<p>Lemon drops halvah pudding croissant I love chupa chups dessert. Tootsie roll topping sugar plum lemon drops sweet chocolate pudding croissant dragée. Pie fruitcake toffee muffin marshmallow chocolate pastry bonbon.</p>
+							<p>Soluciones a problemas que nosotros mismos tenemos como estudiantes y cuya solución se extrapola a más gente. Hacemos software, automatizamos procesos para darles eficiencia. </p>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
 							<span class="icon major fa-simplybuilt icon3"></span>
 							<h3>¿Cómo lo hacemos?</h3>
-							<p>I love candy canes chupa chups marzipan. Lemon drops brownie macaroon muffin. Gummies pie caramels. Cake halvah I love.</p>
+							<p>Haciendo que los innovadores de la universidad colaboren entre si. Experimentamos a altas velocidades, tenemos una toma de decisiones inclusiva y debatimos constructivamente. </p>
 						</section>
 						<section>
 							<span class="icon major fa-question icon4"></span>
 							<h3>¿Qué es ACM?</h3>
-							<p>Ice cream dessert cupcake gummies sesame snaps. Soufflé cake brownie cake danish dragée jelly beans gingerbread. Liquorice cake dragée donut donut. Jujubes tart oat cake.</p>
+							<p>La Association for Computing Machinery es la organización educativa y científica en computación más grande del mundo. Damos recursos que ayudan a la computación a avanzar como ciencia y profesión. </p>
 						</section>
 					</div>
 				</section>
