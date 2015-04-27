@@ -92,7 +92,7 @@
 					</div>
 					<div class="6u 12u(narrower)">
 						<section class="box special">
-							<span class="image featured image-main"><img src="images/piHc03.jpg" alt="" /></span>
+							<span class="image featured image-main"><img src="images/pic03.jpg" alt="" /></span>
 							<h3>Proyectos</h3>
 							<p>Desarrollamos una variedad de aplicaciones web y móviles, todas con un mismo fin. </p>
 							<ul class="actions">
