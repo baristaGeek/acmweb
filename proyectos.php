@@ -6,7 +6,7 @@
 		<section id="main" class="container">
 			<header>
 				<h2>Proyectos</h2>
-				<p>Construimos cosas que la gente quiere</p>
+				<p>Construimos cosas que la comunidad necesita</p>
 			</header>
 			<div class="box">
 				<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
