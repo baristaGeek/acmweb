@@ -54,7 +54,7 @@
 						<section>
 							<span class="icon major fa-question icon4"></span>
 							<h3>¿Qué es ACM?</h3>
-							<p>La Association for Computing Machinery es la organización educativa y científica en computación más grande del mundo. Damos recursos que ayudan a la computación a avanzar como ciencia y profesión. </p>
+							<p>La Association for Computing Machinery es la organización educativa y científica en computación más grande del mundo. </p>
 						</section>
 					</div>
 				</section>
@@ -64,7 +64,7 @@
 						<section class="box special">
 							<span class="image featured image-main"><img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10995920_10152716528247703_4766521307331989259_n.jpg?oh=029cd405671a9bc4a32e627bce031503&oe=559B8C3E&__gda__=1440549441_e61f72dc1223aa14e08ff69bba48f2ac" alt="" /></span>
 							<h3>Nuestra Junta Directiva</h3>
-							<p>#FotoCasual #MaricaSeTomóMiGuaro</p>
+							<p>Enterate de quien es que está liderando esta iniciativa y conctáctanos.  </p>
 							<ul class="actions">
 								<li><a href="junta.php" class="button alt">Ver Más</a></li>
 							</ul>
@@ -74,7 +74,7 @@
 						<section class="box special">
 							<span class="image featured image-main"><img src="https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11130197_10153209334237908_7274923447481928872_n.jpg?oh=83b275c5f5c8d2455fc176b9446a07a3&oe=55AD2BE4" alt="" /></span>
 							<h3>Nuestro Equipo</h3>
-							<p>Somos un equipo interdisciplinario de estudiantes que buscan aprender y beneficiar a la comunidad por medio de proyectos, actividades y talleres.</p>
+							<p>Somos un equipo interdisciplinario que busca aprender y beneficiar a la comunidad.</p>
 							<ul class="actions">
 								<li><a href="equipo.php" class="button alt">Ver Más</a></li>
 							</ul>
@@ -84,7 +84,7 @@
 						<section class="box special">
 							<span class="image featured image-main"><img src="images/pic03.jpg" alt="" /></span>
 							<h3>Actividades</h3>
-							<p></p>
+							<p>Hacemos bootcamps, celebramos fechas especiales, hackathons y mucho más. </p>
 							<ul class="actions">
 								<li><a href="actividades.php" class="button alt">Ver Más</a></li>
 							</ul>
@@ -92,9 +92,9 @@
 					</div>
 					<div class="6u 12u(narrower)">
 						<section class="box special">
-							<span class="image featured image-main"><img src="images/pic03.jpg" alt="" /></span>
+							<span class="image featured image-main"><img src="images/piHc03.jpg" alt="" /></span>
 							<h3>Proyectos</h3>
-							<p></p>
+							<p>Desarrollamos una variedad de aplicaciones web y móviles, todas con un mismo fin. </p>
 							<ul class="actions">
 								<li><a href="proyectos.php" class="button alt">Ver Más</a></li>
 							</ul>
