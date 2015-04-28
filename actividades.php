@@ -8,7 +8,7 @@
 				<p>Así esparcimos el interés por la computación</p>
 			</header>
 			<div class="box">
-				<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+				<span class="image featured"><img src="images/PiDay.png" alt="" /></span>
 				<h3>Así esparcimos el interés por la computación</h3>
 				<p>En ACM Uniandes creamos espacios para que la comunidad se integre en torno a las ciencias de la computación. Esto incluye ambientes de aprendizaje, conferencias, celebraciones, maratones y exposiciones entre muchas otras cosas. Nuestra misión es que la computación tenga una posición más relevante en la Universidad de los Andes y es con estos espacios como obtenemso visibilidad. Estos son algunos ejemplos de lo que hacemos actualmente. </p>
 				<div class="row">
@@ -18,7 +18,7 @@
 					</div>
 					<div class="6u 12u(mobilep)">
 						<h3>Celebración Día Pi</h3>
-						<p>El día 3/14 de cada año le hacemos honor a una de las cifras más importantes de las matemáticas. La última vez tuvimos competencias de problemas matemáticos y de recitación de digitos del número, un coloquio y también comimos pie (pun intended!).</p>
+						<p>El día 3/14 de cada año le hacemos honor a una de las cifras más importantes de las matemáticas. Hubo competencias de problemas matemáticos y de recitación de digitos del número, un coloquio y también comimos pie.</p>
 					</div>
 				</div>
 			</div>

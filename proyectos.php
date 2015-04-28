@@ -9,7 +9,7 @@
 				<p>Construimos cosas que la comunidad necesita</p>
 			</header>
 			<div class="box">
-				<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+				<span class="image featured"><img src="http://acm.uniandes.edu.co/wordpress/wp-content/uploads/2012/10/hlab2013.jpg" alt="" /></span>
 				<h3>Ejemplos de nuestros proyectos</h3>
 				<p>Actualmente tenemos varios proyectos en fase de desarrollo que serán la solución a problemas de la comunidad uniandina en dominios cada vez más amplios. Estos son algunos proyectos que ya se han puesto a funcionar. </p>
 				<div class="row">
