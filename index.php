@@ -26,11 +26,23 @@
 				<section class="box special">
 					<header class="major">
 						<h2>¡Bienvenido a la Página del Capítulo ACM Uniandes!</h2>
-						<p>Somos un grupo de estudiantes motivados y apasionados por la computación,
+						<p>Somos un grupo de estudiansfsfsftes motivados y apasionados por la computación,
 						 por experimentar, aprender y construir cosas nuevas para aportarle a nuestra comunidad.</p>
 					</header>
 					<span class="image featured"><img src="images/ml_uniandes.JPG" alt="" /></span>
 				</section>
+
+				<!---CMS -->
+				<section>
+				<div class = "sc-content">
+					<p>
+						Some text
+					</p>
+				</div>
+			</section>
+				<!--CMS -->
+
+
 
 				<section class="box special features">
 					<div class="features-row">
