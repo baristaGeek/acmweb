@@ -33,13 +33,12 @@
 				</section>
 
 				<!---CMS -->
-				<section>
+
 				<div class = "sc-content">
-					<p>
-						Some text
-					</p>
+					<h1>Title</h1>
+					<p></p>
 				</div>
-			</section>
+
 				<!--CMS -->
 
 
