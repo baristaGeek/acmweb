@@ -114,11 +114,12 @@
 				</div>
 
 
-
+				<div class = "12u">
 				<section = "box">
 					<h2>Ofertas Laborales</h2>
 					<p>Pronto te informaremos sobre nuestras ofertas</p>
 				</section>
+			</div>
 
 
 		<!-- CTA -->
