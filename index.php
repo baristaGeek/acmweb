@@ -116,12 +116,20 @@
 				<div class = "row">
 					<div class = "12u">
 						<section class = "box">
+							<div id = "myCarousel" class = "carousel slide" data-ride = "carousel">
 							<h2>Ofertas de Trabajo</h2>
 							<h3>Última Oferta: Fronted Dev</h3>
 							<p>Se requiere blah blah blah...</p>
 
-							<ul class = "actions">
-								<li><a class = "button alt">Verm Más Ofertas</a></li>
+							  <ol class="carousel-indicators">
+    							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    							<li data-target="#myCarousel" data-slide-to="1"></li>
+    							<li data-target="#myCarousel" data-slide-to="2"></li>
+    							<li data-target="#myCarousel" data-slide-to="3"></li>
+  								</ol>
+
+
+							</div>
 						</section>
 					</div>
 				</div>
