@@ -113,16 +113,17 @@
 					</div>
 				</div>
 
-
 				<div class = "row">
-				<div class = "12u">
-				<section = "box">
-					<h2>Ofertas Laborales</h2>
-					<p>Pronto te informaremos sobre nuestras ofertas</p>
-				</section>
-			</div>
-			</div>
+					<div class = "12u">
+						<section class = "box">
+							<h2>Ofertas de Trabajo</h2>
+							<!--h3>Última Oferta: Fronted Dev</h3-->
+							<p>Muy pronto te informaremos sobre nuestras ofertas</p>					
+						</section>
+					</div>
+				</div>
 
+			</section>
 
 		<!-- CTA -->
 			<section id="cta">
