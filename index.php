@@ -115,9 +115,9 @@
 
 				<div class = "row">
 					<div class = "12u">
-						<section class = "box special">
+						<section class = "box">
 							<h3>Ofertas de Trabajo</h3>
-							<h2>Fronted Dev</h3>
+							<h2>Fronted Dev</h2>
 							<p>Se requiere blah blah blah...</p>
 						</section>
 					</div>
