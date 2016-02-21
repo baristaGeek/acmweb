@@ -26,7 +26,7 @@
 				<section class="box special">
 					<header class="major">
 						<h2>¡Bienvenido a la Página del Capítulo ACM Uniandes!</h2>
-						<p>Somos un grupo de estudiansfsfsftes motivados y apasionados por la computación,
+						<p>Somos un grupo de estudiantes motivados y apasionados por la computación,
 						 por experimentar, aprender y construir cosas nuevas para aportarle a nuestra comunidad.</p>
 					</header>
 					<span class="image featured"><img src="images/ml_uniandes.JPG" alt="" /></span>
@@ -109,6 +109,16 @@
 							<ul class="actions">
 								<li><a href="proyectos.php" class="button alt">Ver Más</a></li>
 							</ul>
+						</section>
+					</div>
+				</div>
+
+				<div class = "row">
+					<div class = "12u">
+						<section class = "box special">
+							<h3>Ofertas de Trabajo</h3>
+							<h2>Fronted Dev</h3>
+							<p>Se requiere blah blah blah...</p>
 						</section>
 					</div>
 				</div>
