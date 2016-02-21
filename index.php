@@ -116,9 +116,12 @@
 				<div class = "row">
 					<div class = "12u">
 						<section class = "box">
-							<h3>Ofertas de Trabajo</h3>
-							<h2>Fronted Dev</h2>
+							<h2>Ofertas de Trabajo</h2>
+							<h3>Última Oferta: Fronted Dev</h3>
 							<p>Se requiere blah blah blah...</p>
+
+							<ul class = "actions">
+								<li><a class = "button alt">Verm Más Ofertas</a></li>
 						</section>
 					</div>
 				</div>
